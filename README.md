@@ -57,7 +57,7 @@ I18N: [English](README_EN.md) | [简体中文](README.md) | [日本語](README_J
 （-j 后面是线程数，第一次编译推荐用单线程）
 
    ```bash
-   make download -j8
+   make download -j4
    make V=s -j1
    ```
 
